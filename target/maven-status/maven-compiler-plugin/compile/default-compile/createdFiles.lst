@@ -1,0 +1,6 @@
+com\zdbank\newbie\NewbieApplication.class
+com\zdbank\newbie\student\StudentController.class
+com\zdbank\newbie\student\StudentService.class
+com\zdbank\newbie\student\StudentRepository.class
+com\zdbank\newbie\student\StudentConfig.class
+com\zdbank\newbie\student\Student.class
